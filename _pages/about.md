@@ -17,8 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+Xiaoxin Su, Ph.D., Assistant Professor at the College of Computer Science and Software Engineering, Shenzhen University. He received his Ph.D. degree in Computer Science and Technology from Shenzhen University in December 2025. Xiaoxin Su joined Shenzhen University in February 2026, focusing his research on distributed training, communication optimization, and data compression.
+
+In recent years, Dr. Su has conducted in-depth research in frontier areas including federated learning, publishing over 10 top-tier academic papers. He served as the first author on five papers published in CCF-A-level journals and conferences such as IEEE TON, IEEE INFOCOM, IEEE JSAC, and IEEE TPDS. He led a National Natural Science Foundation of China (NSFC) Youth Student Basic Research Project (Ph.D. level) and has been granted five national invention patents. Additionally, Dr. Su serves as a reviewer for international journals including IEEE JSAC, IEEE TMC, and IEEE TPDS.
+
+{\bf Office: }Room 614-3, College of Computer Science and Software Engineering, Shenzhen University, Shenzhen 518060, China
+
+{\Email: }suxx@szu.edu.cn
 
 我的研究领域包括：
 - 仪器仪表
