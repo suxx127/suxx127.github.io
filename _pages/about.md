@@ -27,7 +27,7 @@ In recent years, Dr. Su has conducted in-depth research in frontier areas includ
 
 # Research Interests
 - Distributed Training of LLM
-- Communication Optimization,
+- Communication Optimization
 - Convex Optimization Theory
 - Federated Learning
   
