@@ -21,18 +21,15 @@ Xiaoxin Su, Ph.D., Assistant Professor at the College of Computer Science and So
 
 In recent years, Dr. Su has conducted in-depth research in frontier areas including federated learning, publishing over 10 top-tier academic papers. He served as the first author on five papers published in CCF-A-level journals and conferences such as IEEE TON, IEEE INFOCOM, IEEE JSAC, and IEEE TPDS. He led a National Natural Science Foundation of China (NSFC) Youth Student Basic Research Project (Ph.D. level) and has been granted five national invention patents. Additionally, Dr. Su serves as a reviewer for international journals including IEEE JSAC, IEEE TMC, and IEEE TPDS.
 
-{\bf Office: }Room 614-3, College of Computer Science and Software Engineering, Shenzhen University, Shenzhen 518060, China
+**Office: **Room 614-3, College of Computer Science and Software Engineering, Shenzhen University, Shenzhen 518060, China
 
-{\Email: }suxx@szu.edu.cn
+**Email: **suxx@szu.edu.cn
 
-我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
+# Research Interests
+- Distributed Training of LLM
+- Communication Optimization,
+- Convex Optimization Theory
+- Federated Learning
   
 
 
