@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xiaoxin Su, Ph.D., Assistant Professor at the College of Computer Science and Software Engineering, Shenzhen University. He received his Ph.D. degree in Computer Science and Technology from Shenzhen University in December 2025. Xiaoxin Su joined Shenzhen University in February 2026, focusing his research on distributed training, communication optimization, and data compression.
+Xiaoxin Su, Ph.D., Assistant Professor at the College of Computer Science and Software Engineering, Shenzhen University, Master's/Ph.D. Advisor. He received his Ph.D. degree in Computer Science and Technology from Shenzhen University in December 2025. Xiaoxin Su joined Shenzhen University in February 2026, focusing his research on distributed training, communication optimization, and data compression.
 
 In recent years, Dr. Su has conducted in-depth research in frontier areas including federated learning, publishing over 10 top-tier academic papers. He served as the first author on five papers published in CCF-A-level journals and conferences such as IEEE TON, IEEE INFOCOM, IEEE JSAC, and IEEE TPDS. He led a National Natural Science Foundation of China (NSFC) Youth Student Basic Research Project (Ph.D. level) and has been granted five national invention patents. Additionally, Dr. Su serves as a reviewer for international journals including IEEE JSAC, IEEE TMC, and IEEE TPDS.
 
@@ -33,7 +33,7 @@ In recent years, Dr. Su has conducted in-depth research in frontier areas includ
   
 # Publication
 - `Xiaoxin Su`, Yipeng Zhou, Laizhong Cui, Song Guo, Jiangchuan Liu. [Fed-GTopK: Expediting In-Network Federated Learning by Transmitting Global Top Model Updates](https://ieeexplore.ieee.org/document/11398401/), IEEE Transactions on Networking (TON), 2026, 34: 3549-3563. (*CCF-A*)
-- Xiaoxin Su, Yipeng Zhou, Laizhong Cui, Quan Z. Sheng, Yinggui Wang, Song Guo. [Fast-Convergent Wireless Federated Learning: A Voting-Based TopK Model Compression Approach](https://ieeexplore.ieee.org/document/10605794/), IEEE Journal on Selected Areas in Communications (JSAC), 2024, 42(11):3048-3063. (*CCF-A*)
+- `Xiaoxin Su`, Yipeng Zhou, Laizhong Cui, Quan Z. Sheng, Yinggui Wang, Song Guo. [Fast-Convergent Wireless Federated Learning: A Voting-Based TopK Model Compression Approach](https://ieeexplore.ieee.org/document/10605794/), IEEE Journal on Selected Areas in Communications (JSAC), 2024, 42(11):3048-3063. (*CCF-A*)
 - `Xiaoxin Su`, Yipeng Zhou, Laizhong Cui, John C.S. Lui, Jiangchuan Liu. [Fed-CVLC: Compressing Federated Learning Communications with Variable-Length Codes](https://ieeexplore.ieee.org/document/10621361/), IEEE Conference on Computer Communications (INFOCOM), 2024:601-610. (*CCF-A*)
 - `Xiaoxin Su`, Yipeng Zhou, Laizhong Cui, Song Guo. [Expediting In-Network Federated Learning by Voting-Based Consensus Model Compression](https://ieeexplore.ieee.org/document/10621376/), IEEE Conference on Computer Communications (INFOCOM), 2024:1271-1280. (*CCF-A*)
 - `Xiaoxin Su`, Yipeng Zhou, Laizhong Cui, Jiangchuan Liu. [On Model Transmission Strategies in Federated Learning With Lossy Communications](https://ieeexplore.ieee.org/document/10032555/), IEEE Transactions on Parallel and Distributed Systems (TPDS), 2023, 34(4):1173-1185. (*CCF-A*)
